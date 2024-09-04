@@ -4,13 +4,9 @@
 
 https://www.tiktok.com/@reddit.rocks4?_t=8pRsP4Y8C9j&_r=1
 
-## Key Metrics:
-300+ Likes
-10,000+ Views
-
-## Demo
-
-* pending
+## Key Metrics Generated:
+- 300+ Likes
+- 10,000+ Views
 
 ## Introduction and Motivation
 
