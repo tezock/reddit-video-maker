@@ -23,3 +23,5 @@ This was created moreso with an interest in automating short-form content creati
 
 ## Usage
 - To use the app, just populate the fields at the bottom, then hit run and the video file(s) should be created in the same directory as the code.
+
+<img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*LpxLQj3xgPwMaUjaM3NW7g.jpeg" alt="Shrek approves this message" width="500">
